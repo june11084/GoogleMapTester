@@ -1,0 +1,1572 @@
+{
+"status": "success",
+"message": "asdf",
+"markets": [
+{
+"id": 4,
+"market": "absarokee",
+"state_id": 26,
+"latitude": "45.520498",
+"longitude": "-109.442944",
+"inventory_phrases_in_stock": 75,
+"inventory_phrase_rates_updated_at": "2018-05-22 19:07:55",
+"created_at": "2018-05-17 21:06:03",
+"updated_at": "2018-05-22 19:07:55",
+"deleted_at": null,
+"inventory_phrases": [
+{
+"id": 226,
+"inventory_market_id": 4,
+"phrase": "real estate absarokee MT",
+"search_rate": 110,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:41",
+"updated_at": "2018-05-22 19:03:24",
+"deleted_at": null
+},
+{
+"id": 227,
+"inventory_market_id": 4,
+"phrase": "real estate absarokee Montana",
+"search_rate": 110,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:41",
+"updated_at": "2018-05-22 19:03:24",
+"deleted_at": null
+},
+{
+"id": 228,
+"inventory_market_id": 4,
+"phrase": "real estate absarokee",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:42",
+"updated_at": "2018-05-22 19:03:25",
+"deleted_at": null
+},
+{
+"id": 229,
+"inventory_market_id": 4,
+"phrase": "real estate in absarokee MT",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:42",
+"updated_at": "2018-05-22 19:03:25",
+"deleted_at": null
+},
+{
+"id": 230,
+"inventory_market_id": 4,
+"phrase": "real estate in absarokee Montana",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:42",
+"updated_at": "2018-05-22 19:03:25",
+"deleted_at": null
+},
+{
+"id": 231,
+"inventory_market_id": 4,
+"phrase": "real estate for sale absarokee MT",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:42",
+"updated_at": "2018-05-22 19:03:25",
+"deleted_at": null
+},
+{
+"id": 232,
+"inventory_market_id": 4,
+"phrase": "real estate for sale absarokee Montana",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:42",
+"updated_at": "2018-05-22 19:03:25",
+"deleted_at": null
+},
+{
+"id": 233,
+"inventory_market_id": 4,
+"phrase": "real estate for sale in absarokee MT",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:42",
+"updated_at": "2018-05-22 19:03:25",
+"deleted_at": null
+},
+{
+"id": 234,
+"inventory_market_id": 4,
+"phrase": "real estate for sale in absarokee Montana",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:42",
+"updated_at": "2018-05-22 19:03:25",
+"deleted_at": null
+},
+{
+"id": 235,
+"inventory_market_id": 4,
+"phrase": "absarokee MT real estate",
+"search_rate": 110,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:42",
+"updated_at": "2018-05-22 19:03:26",
+"deleted_at": null
+},
+{
+"id": 236,
+"inventory_market_id": 4,
+"phrase": "absarokee Montana real estate",
+"search_rate": 110,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:42",
+"updated_at": "2018-05-22 19:03:26",
+"deleted_at": null
+},
+{
+"id": 237,
+"inventory_market_id": 4,
+"phrase": "absarokee real estate",
+"search_rate": 20,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:42",
+"updated_at": "2018-05-22 19:03:26",
+"deleted_at": null
+},
+{
+"id": 238,
+"inventory_market_id": 4,
+"phrase": "absarokee MT real estate for sale",
+"search_rate": 10,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:43",
+"updated_at": "2018-05-22 19:03:26",
+"deleted_at": null
+},
+{
+"id": 239,
+"inventory_market_id": 4,
+"phrase": "absarokee Montana real estate for sale",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:43",
+"updated_at": "2018-05-22 19:03:26",
+"deleted_at": null
+},
+{
+"id": 240,
+"inventory_market_id": 4,
+"phrase": "absarokee real estate for sale",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:43",
+"updated_at": "2018-05-22 19:03:26",
+"deleted_at": null
+},
+{
+"id": 241,
+"inventory_market_id": 4,
+"phrase": "absarokee MT homes",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:43",
+"updated_at": "2018-05-22 19:03:26",
+"deleted_at": null
+},
+{
+"id": 242,
+"inventory_market_id": 4,
+"phrase": "absarokee Montana homes",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:43",
+"updated_at": "2018-05-22 19:03:26",
+"deleted_at": null
+},
+{
+"id": 243,
+"inventory_market_id": 4,
+"phrase": "absarokee homes",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:43",
+"updated_at": "2018-05-22 19:03:26",
+"deleted_at": null
+},
+{
+"id": 244,
+"inventory_market_id": 4,
+"phrase": "homes in absarokee MT",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:43",
+"updated_at": "2018-05-22 19:03:27",
+"deleted_at": null
+},
+{
+"id": 245,
+"inventory_market_id": 4,
+"phrase": "homes in absarokee Montana",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:43",
+"updated_at": "2018-05-22 19:03:27",
+"deleted_at": null
+},
+{
+"id": 246,
+"inventory_market_id": 4,
+"phrase": "homes in absarokee",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:44",
+"updated_at": "2018-05-22 19:03:27",
+"deleted_at": null
+},
+{
+"id": 247,
+"inventory_market_id": 4,
+"phrase": "homes absarokee",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:44",
+"updated_at": "2018-05-22 19:03:27",
+"deleted_at": null
+},
+{
+"id": 248,
+"inventory_market_id": 4,
+"phrase": "absarokee MT homes for sale",
+"search_rate": 110,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:44",
+"updated_at": "2018-05-22 19:03:27",
+"deleted_at": null
+},
+{
+"id": 249,
+"inventory_market_id": 4,
+"phrase": "absarokee Montana homes for sale",
+"search_rate": 110,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:44",
+"updated_at": "2018-05-22 19:03:27",
+"deleted_at": null
+},
+{
+"id": 250,
+"inventory_market_id": 4,
+"phrase": "absarokee homes for sale",
+"search_rate": 10,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:44",
+"updated_at": "2018-05-22 19:03:27",
+"deleted_at": null
+},
+{
+"id": 251,
+"inventory_market_id": 4,
+"phrase": "homes for sale absarokee MT",
+"search_rate": 110,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:44",
+"updated_at": "2018-05-22 19:03:27",
+"deleted_at": null
+},
+{
+"id": 252,
+"inventory_market_id": 4,
+"phrase": "homes for sale absarokee Montana",
+"search_rate": 110,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:45",
+"updated_at": "2018-05-22 19:03:27",
+"deleted_at": null
+},
+{
+"id": 253,
+"inventory_market_id": 4,
+"phrase": "homes for sale in absarokee MT",
+"search_rate": 110,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:45",
+"updated_at": "2018-05-22 19:03:27",
+"deleted_at": null
+},
+{
+"id": 254,
+"inventory_market_id": 4,
+"phrase": "homes for sale in absarokee Montana",
+"search_rate": 110,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:45",
+"updated_at": "2018-05-22 19:03:28",
+"deleted_at": null
+},
+{
+"id": 255,
+"inventory_market_id": 4,
+"phrase": "homes for sale in absarokee",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:45",
+"updated_at": "2018-05-22 19:03:28",
+"deleted_at": null
+},
+{
+"id": 256,
+"inventory_market_id": 4,
+"phrase": "absarokee MT houses",
+"search_rate": 10,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:45",
+"updated_at": "2018-05-22 19:03:28",
+"deleted_at": null
+},
+{
+"id": 257,
+"inventory_market_id": 4,
+"phrase": "absarokee Montana houses",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:45",
+"updated_at": "2018-05-22 19:03:28",
+"deleted_at": null
+},
+{
+"id": 258,
+"inventory_market_id": 4,
+"phrase": "absarokee houses",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:45",
+"updated_at": "2018-05-22 19:03:28",
+"deleted_at": null
+},
+{
+"id": 259,
+"inventory_market_id": 4,
+"phrase": "houses in absarokee MT",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:45",
+"updated_at": "2018-05-22 19:03:28",
+"deleted_at": null
+},
+{
+"id": 260,
+"inventory_market_id": 4,
+"phrase": "houses in absarokee Montana",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:45",
+"updated_at": "2018-05-22 19:03:28",
+"deleted_at": null
+},
+{
+"id": 261,
+"inventory_market_id": 4,
+"phrase": "houses in absarokee",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:45",
+"updated_at": "2018-05-22 19:03:28",
+"deleted_at": null
+},
+{
+"id": 262,
+"inventory_market_id": 4,
+"phrase": "houses absarokee",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:46",
+"updated_at": "2018-05-22 19:03:28",
+"deleted_at": null
+},
+{
+"id": 263,
+"inventory_market_id": 4,
+"phrase": "absarokee MT houses for sale",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:46",
+"updated_at": "2018-05-22 19:03:28",
+"deleted_at": null
+},
+{
+"id": 264,
+"inventory_market_id": 4,
+"phrase": "absarokee Montana houses for sale",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:46",
+"updated_at": "2018-05-22 19:03:29",
+"deleted_at": null
+},
+{
+"id": 265,
+"inventory_market_id": 4,
+"phrase": "absarokee houses for sale",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:46",
+"updated_at": "2018-05-22 19:03:29",
+"deleted_at": null
+},
+{
+"id": 266,
+"inventory_market_id": 4,
+"phrase": "houses for sale absarokee MT",
+"search_rate": 20,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:46",
+"updated_at": "2018-05-22 19:03:29",
+"deleted_at": null
+},
+{
+"id": 267,
+"inventory_market_id": 4,
+"phrase": "houses for sale absarokee Montana",
+"search_rate": 10,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:46",
+"updated_at": "2018-05-22 19:03:29",
+"deleted_at": null
+},
+{
+"id": 268,
+"inventory_market_id": 4,
+"phrase": "houses for sale in absarokee MT",
+"search_rate": 20,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:46",
+"updated_at": "2018-05-22 19:03:29",
+"deleted_at": null
+},
+{
+"id": 269,
+"inventory_market_id": 4,
+"phrase": "houses for sale in absarokee Montana",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:46",
+"updated_at": "2018-05-22 19:03:29",
+"deleted_at": null
+},
+{
+"id": 270,
+"inventory_market_id": 4,
+"phrase": "houses for sale in absarokee",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:46",
+"updated_at": "2018-05-22 19:03:29",
+"deleted_at": null
+},
+{
+"id": 271,
+"inventory_market_id": 4,
+"phrase": "absarokee MT properties",
+"search_rate": 10,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:46",
+"updated_at": "2018-05-22 19:03:29",
+"deleted_at": null
+},
+{
+"id": 272,
+"inventory_market_id": 4,
+"phrase": "absarokee Montana properties",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:47",
+"updated_at": "2018-05-22 19:03:29",
+"deleted_at": null
+},
+{
+"id": 273,
+"inventory_market_id": 4,
+"phrase": "absarokee properties",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:47",
+"updated_at": "2018-05-22 19:03:29",
+"deleted_at": null
+},
+{
+"id": 274,
+"inventory_market_id": 4,
+"phrase": "properties in absarokee MT",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:47",
+"updated_at": "2018-05-22 19:03:30",
+"deleted_at": null
+},
+{
+"id": 275,
+"inventory_market_id": 4,
+"phrase": "properties in absarokee Montana",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:47",
+"updated_at": "2018-05-22 19:03:30",
+"deleted_at": null
+},
+{
+"id": 276,
+"inventory_market_id": 4,
+"phrase": "properties in absarokee",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:47",
+"updated_at": "2018-05-22 19:03:30",
+"deleted_at": null
+},
+{
+"id": 277,
+"inventory_market_id": 4,
+"phrase": "properties absarokee",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:47",
+"updated_at": "2018-05-22 19:03:30",
+"deleted_at": null
+},
+{
+"id": 278,
+"inventory_market_id": 4,
+"phrase": "absarokee MT properties for sale",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:47",
+"updated_at": "2018-05-22 19:03:30",
+"deleted_at": null
+},
+{
+"id": 279,
+"inventory_market_id": 4,
+"phrase": "absarokee Montana properties for sale",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:47",
+"updated_at": "2018-05-22 19:03:30",
+"deleted_at": null
+},
+{
+"id": 280,
+"inventory_market_id": 4,
+"phrase": "absarokee properties for sale",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:47",
+"updated_at": "2018-05-22 19:03:30",
+"deleted_at": null
+},
+{
+"id": 281,
+"inventory_market_id": 4,
+"phrase": "properties for sale absarokee MT",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:47",
+"updated_at": "2018-05-22 19:03:30",
+"deleted_at": null
+},
+{
+"id": 282,
+"inventory_market_id": 4,
+"phrase": "properties for sale absarokee Montana",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:48",
+"updated_at": "2018-05-22 19:03:30",
+"deleted_at": null
+},
+{
+"id": 283,
+"inventory_market_id": 4,
+"phrase": "properties for sale in absarokee MT",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:48",
+"updated_at": "2018-05-22 19:03:30",
+"deleted_at": null
+},
+{
+"id": 284,
+"inventory_market_id": 4,
+"phrase": "properties for sale in absarokee Montana",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:48",
+"updated_at": "2018-05-22 19:03:31",
+"deleted_at": null
+},
+{
+"id": 285,
+"inventory_market_id": 4,
+"phrase": "properties for sale in absarokee",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:48",
+"updated_at": "2018-05-22 19:03:31",
+"deleted_at": null
+},
+{
+"id": 286,
+"inventory_market_id": 4,
+"phrase": "property for sale in absarokee",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:48",
+"updated_at": "2018-05-22 19:03:31",
+"deleted_at": null
+},
+{
+"id": 287,
+"inventory_market_id": 4,
+"phrase": "property for sale in absarokee Montana",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:48",
+"updated_at": "2018-05-22 19:03:31",
+"deleted_at": null
+},
+{
+"id": 288,
+"inventory_market_id": 4,
+"phrase": "property for sale in absarokee MT",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:48",
+"updated_at": "2018-05-22 19:03:31",
+"deleted_at": null
+},
+{
+"id": 289,
+"inventory_market_id": 4,
+"phrase": "property in absarokee MT",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:48",
+"updated_at": "2018-05-22 19:03:31",
+"deleted_at": null
+},
+{
+"id": 290,
+"inventory_market_id": 4,
+"phrase": "property in absarokee Montana",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:48",
+"updated_at": "2018-05-22 19:03:31",
+"deleted_at": null
+},
+{
+"id": 291,
+"inventory_market_id": 4,
+"phrase": "property in absarokee",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:48",
+"updated_at": "2018-05-22 19:03:31",
+"deleted_at": null
+},
+{
+"id": 292,
+"inventory_market_id": 4,
+"phrase": "property absarokee",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:49",
+"updated_at": "2018-05-22 19:03:31",
+"deleted_at": null
+},
+{
+"id": 293,
+"inventory_market_id": 4,
+"phrase": "property for sale absarokee MT",
+"search_rate": 10,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:49",
+"updated_at": "2018-05-22 19:03:32",
+"deleted_at": null
+},
+{
+"id": 294,
+"inventory_market_id": 4,
+"phrase": "property for sale absarokee Montana",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:49",
+"updated_at": "2018-05-22 19:03:32",
+"deleted_at": null
+},
+{
+"id": 295,
+"inventory_market_id": 4,
+"phrase": "absarokee MT property for sale",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:49",
+"updated_at": "2018-05-22 19:03:32",
+"deleted_at": null
+},
+{
+"id": 296,
+"inventory_market_id": 4,
+"phrase": "absarokee Montana property for sale",
+"search_rate": 10,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:49",
+"updated_at": "2018-05-22 19:03:32",
+"deleted_at": null
+},
+{
+"id": 297,
+"inventory_market_id": 4,
+"phrase": "absarokee property for sale",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:49",
+"updated_at": "2018-05-22 19:03:32",
+"deleted_at": null
+},
+{
+"id": 298,
+"inventory_market_id": 4,
+"phrase": "absarokee MT property",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:49",
+"updated_at": "2018-05-22 19:03:32",
+"deleted_at": null
+},
+{
+"id": 299,
+"inventory_market_id": 4,
+"phrase": "absarokee Montana property",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:49",
+"updated_at": "2018-05-22 19:03:32",
+"deleted_at": null
+},
+{
+"id": 300,
+"inventory_market_id": 4,
+"phrase": "absarokee property",
+"search_rate": 10,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:49",
+"updated_at": "2018-05-22 19:03:32",
+"deleted_at": null
+}
+],
+"state": {
+"id": 26,
+"name": "Montana",
+"abbreviation": "MT",
+"country": "USA",
+"type": "state",
+"sort": 10,
+"status": "current",
+"occupied": "occupied",
+"notes": "",
+"fips_state": "30",
+"assoc_press": "Mont.",
+"standard_federal_region": "VIII",
+"census_region": "4",
+"census_region_name": "West",
+"census_division": "8",
+"census_division_name": "Mountain",
+"circuit_court": "9"
+}
+},
+{
+"id": 5,
+"market": "acton",
+"state_id": 21,
+"latitude": "42.485093",
+"longitude": "-71.432840",
+"inventory_phrases_in_stock": 75,
+"inventory_phrase_rates_updated_at": "2018-05-22 19:07:55",
+"created_at": "2018-05-17 21:06:03",
+"updated_at": "2018-05-22 19:07:55",
+"deleted_at": null,
+"inventory_phrases": [
+{
+"id": 301,
+"inventory_market_id": 5,
+"phrase": "real estate acton MA",
+"search_rate": 590,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:50",
+"updated_at": "2018-05-22 19:03:32",
+"deleted_at": null
+},
+{
+"id": 302,
+"inventory_market_id": 5,
+"phrase": "real estate acton Massachusetts",
+"search_rate": 590,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:50",
+"updated_at": "2018-05-22 19:03:32",
+"deleted_at": null
+},
+{
+"id": 303,
+"inventory_market_id": 5,
+"phrase": "real estate acton",
+"search_rate": 2400,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:50",
+"updated_at": "2018-05-22 19:03:33",
+"deleted_at": null
+},
+{
+"id": 304,
+"inventory_market_id": 5,
+"phrase": "real estate in acton MA",
+"search_rate": 590,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:50",
+"updated_at": "2018-05-22 19:03:33",
+"deleted_at": null
+},
+{
+"id": 305,
+"inventory_market_id": 5,
+"phrase": "real estate in acton Massachusetts",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:50",
+"updated_at": "2018-05-22 19:03:33",
+"deleted_at": null
+},
+{
+"id": 306,
+"inventory_market_id": 5,
+"phrase": "real estate for sale acton MA",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:50",
+"updated_at": "2018-05-22 19:03:33",
+"deleted_at": null
+},
+{
+"id": 307,
+"inventory_market_id": 5,
+"phrase": "real estate for sale acton Massachusetts",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:50",
+"updated_at": "2018-05-22 19:03:33",
+"deleted_at": null
+},
+{
+"id": 308,
+"inventory_market_id": 5,
+"phrase": "real estate for sale in acton MA",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:50",
+"updated_at": "2018-05-22 19:03:33",
+"deleted_at": null
+},
+{
+"id": 309,
+"inventory_market_id": 5,
+"phrase": "real estate for sale in acton Massachusetts",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:50",
+"updated_at": "2018-05-22 19:03:33",
+"deleted_at": null
+},
+{
+"id": 310,
+"inventory_market_id": 5,
+"phrase": "acton MA real estate",
+"search_rate": 590,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:50",
+"updated_at": "2018-05-22 19:03:33",
+"deleted_at": null
+},
+{
+"id": 311,
+"inventory_market_id": 5,
+"phrase": "acton Massachusetts real estate",
+"search_rate": 590,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:50",
+"updated_at": "2018-05-22 19:03:33",
+"deleted_at": null
+},
+{
+"id": 312,
+"inventory_market_id": 5,
+"phrase": "acton real estate",
+"search_rate": 2400,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:51",
+"updated_at": "2018-05-22 19:03:33",
+"deleted_at": null
+},
+{
+"id": 313,
+"inventory_market_id": 5,
+"phrase": "acton MA real estate for sale",
+"search_rate": 30,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:51",
+"updated_at": "2018-05-22 19:03:34",
+"deleted_at": null
+},
+{
+"id": 314,
+"inventory_market_id": 5,
+"phrase": "acton Massachusetts real estate for sale",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:51",
+"updated_at": "2018-05-22 19:03:34",
+"deleted_at": null
+},
+{
+"id": 315,
+"inventory_market_id": 5,
+"phrase": "acton real estate for sale",
+"search_rate": 70,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:51",
+"updated_at": "2018-05-22 19:03:34",
+"deleted_at": null
+},
+{
+"id": 316,
+"inventory_market_id": 5,
+"phrase": "acton MA homes",
+"search_rate": 110,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:51",
+"updated_at": "2018-05-22 19:03:34",
+"deleted_at": null
+},
+{
+"id": 317,
+"inventory_market_id": 5,
+"phrase": "acton Massachusetts homes",
+"search_rate": 110,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:51",
+"updated_at": "2018-05-22 19:03:34",
+"deleted_at": null
+},
+{
+"id": 318,
+"inventory_market_id": 5,
+"phrase": "acton homes",
+"search_rate": 90,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:51",
+"updated_at": "2018-05-22 19:03:34",
+"deleted_at": null
+},
+{
+"id": 319,
+"inventory_market_id": 5,
+"phrase": "homes in acton MA",
+"search_rate": 110,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:51",
+"updated_at": "2018-05-22 19:03:34",
+"deleted_at": null
+},
+{
+"id": 320,
+"inventory_market_id": 5,
+"phrase": "homes in acton Massachusetts",
+"search_rate": 110,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:51",
+"updated_at": "2018-05-22 19:03:34",
+"deleted_at": null
+},
+{
+"id": 321,
+"inventory_market_id": 5,
+"phrase": "homes in acton",
+"search_rate": 90,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:51",
+"updated_at": "2018-05-22 19:03:34",
+"deleted_at": null
+},
+{
+"id": 322,
+"inventory_market_id": 5,
+"phrase": "homes acton",
+"search_rate": 90,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:52",
+"updated_at": "2018-05-22 19:03:34",
+"deleted_at": null
+},
+{
+"id": 323,
+"inventory_market_id": 5,
+"phrase": "acton MA homes for sale",
+"search_rate": 1000,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:52",
+"updated_at": "2018-05-22 19:03:35",
+"deleted_at": null
+},
+{
+"id": 324,
+"inventory_market_id": 5,
+"phrase": "acton Massachusetts homes for sale",
+"search_rate": 1000,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:52",
+"updated_at": "2018-05-22 19:03:35",
+"deleted_at": null
+},
+{
+"id": 325,
+"inventory_market_id": 5,
+"phrase": "acton homes for sale",
+"search_rate": 2400,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:52",
+"updated_at": "2018-05-22 19:03:35",
+"deleted_at": null
+},
+{
+"id": 326,
+"inventory_market_id": 5,
+"phrase": "homes for sale acton MA",
+"search_rate": 1000,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:53",
+"updated_at": "2018-05-22 19:03:35",
+"deleted_at": null
+},
+{
+"id": 327,
+"inventory_market_id": 5,
+"phrase": "homes for sale acton Massachusetts",
+"search_rate": 1000,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:53",
+"updated_at": "2018-05-22 19:03:35",
+"deleted_at": null
+},
+{
+"id": 328,
+"inventory_market_id": 5,
+"phrase": "homes for sale in acton MA",
+"search_rate": 1000,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:53",
+"updated_at": "2018-05-22 19:03:35",
+"deleted_at": null
+},
+{
+"id": 329,
+"inventory_market_id": 5,
+"phrase": "homes for sale in acton Massachusetts",
+"search_rate": 1000,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:53",
+"updated_at": "2018-05-22 19:03:36",
+"deleted_at": null
+},
+{
+"id": 330,
+"inventory_market_id": 5,
+"phrase": "homes for sale in acton",
+"search_rate": 2400,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:54",
+"updated_at": "2018-05-22 19:03:36",
+"deleted_at": null
+},
+{
+"id": 331,
+"inventory_market_id": 5,
+"phrase": "acton MA houses",
+"search_rate": 70,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:54",
+"updated_at": "2018-05-22 19:03:36",
+"deleted_at": null
+},
+{
+"id": 332,
+"inventory_market_id": 5,
+"phrase": "acton Massachusetts houses",
+"search_rate": 70,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:54",
+"updated_at": "2018-05-22 19:03:36",
+"deleted_at": null
+},
+{
+"id": 333,
+"inventory_market_id": 5,
+"phrase": "acton houses",
+"search_rate": 320,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:54",
+"updated_at": "2018-05-22 19:03:37",
+"deleted_at": null
+},
+{
+"id": 334,
+"inventory_market_id": 5,
+"phrase": "houses in acton MA",
+"search_rate": 70,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:54",
+"updated_at": "2018-05-22 19:03:37",
+"deleted_at": null
+},
+{
+"id": 335,
+"inventory_market_id": 5,
+"phrase": "houses in acton Massachusetts",
+"search_rate": 70,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:54",
+"updated_at": "2018-05-22 19:03:37",
+"deleted_at": null
+},
+{
+"id": 336,
+"inventory_market_id": 5,
+"phrase": "houses in acton",
+"search_rate": 320,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:54",
+"updated_at": "2018-05-22 19:03:37",
+"deleted_at": null
+},
+{
+"id": 337,
+"inventory_market_id": 5,
+"phrase": "houses acton",
+"search_rate": 320,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:54",
+"updated_at": "2018-05-22 19:03:37",
+"deleted_at": null
+},
+{
+"id": 338,
+"inventory_market_id": 5,
+"phrase": "acton MA houses for sale",
+"search_rate": 880,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:54",
+"updated_at": "2018-05-22 19:03:37",
+"deleted_at": null
+},
+{
+"id": 339,
+"inventory_market_id": 5,
+"phrase": "acton Massachusetts houses for sale",
+"search_rate": 880,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:54",
+"updated_at": "2018-05-22 19:03:37",
+"deleted_at": null
+},
+{
+"id": 340,
+"inventory_market_id": 5,
+"phrase": "acton houses for sale",
+"search_rate": 2400,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:55",
+"updated_at": "2018-05-22 19:03:37",
+"deleted_at": null
+},
+{
+"id": 341,
+"inventory_market_id": 5,
+"phrase": "houses for sale acton MA",
+"search_rate": 880,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:55",
+"updated_at": "2018-05-22 19:03:37",
+"deleted_at": null
+},
+{
+"id": 342,
+"inventory_market_id": 5,
+"phrase": "houses for sale acton Massachusetts",
+"search_rate": 880,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:55",
+"updated_at": "2018-05-22 19:03:37",
+"deleted_at": null
+},
+{
+"id": 343,
+"inventory_market_id": 5,
+"phrase": "houses for sale in acton MA",
+"search_rate": 880,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:55",
+"updated_at": "2018-05-22 19:03:38",
+"deleted_at": null
+},
+{
+"id": 344,
+"inventory_market_id": 5,
+"phrase": "houses for sale in acton Massachusetts",
+"search_rate": 880,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:55",
+"updated_at": "2018-05-22 19:03:38",
+"deleted_at": null
+},
+{
+"id": 345,
+"inventory_market_id": 5,
+"phrase": "houses for sale in acton",
+"search_rate": 2400,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:55",
+"updated_at": "2018-05-22 19:03:38",
+"deleted_at": null
+},
+{
+"id": 346,
+"inventory_market_id": 5,
+"phrase": "acton MA properties",
+"search_rate": 10,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:55",
+"updated_at": "2018-05-22 19:03:38",
+"deleted_at": null
+},
+{
+"id": 347,
+"inventory_market_id": 5,
+"phrase": "acton Massachusetts properties",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:55",
+"updated_at": "2018-05-22 19:03:38",
+"deleted_at": null
+},
+{
+"id": 348,
+"inventory_market_id": 5,
+"phrase": "acton properties",
+"search_rate": 170,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:55",
+"updated_at": "2018-05-22 19:03:38",
+"deleted_at": null
+},
+{
+"id": 349,
+"inventory_market_id": 5,
+"phrase": "properties in acton MA",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:55",
+"updated_at": "2018-05-22 19:03:38",
+"deleted_at": null
+},
+{
+"id": 350,
+"inventory_market_id": 5,
+"phrase": "properties in acton Massachusetts",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:56",
+"updated_at": "2018-05-22 19:03:38",
+"deleted_at": null
+},
+{
+"id": 351,
+"inventory_market_id": 5,
+"phrase": "properties in acton",
+"search_rate": 170,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:56",
+"updated_at": "2018-05-22 19:03:38",
+"deleted_at": null
+},
+{
+"id": 352,
+"inventory_market_id": 5,
+"phrase": "properties acton",
+"search_rate": 170,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:56",
+"updated_at": "2018-05-22 19:03:38",
+"deleted_at": null
+},
+{
+"id": 353,
+"inventory_market_id": 5,
+"phrase": "acton MA properties for sale",
+"search_rate": 10,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:56",
+"updated_at": "2018-05-22 19:03:39",
+"deleted_at": null
+},
+{
+"id": 354,
+"inventory_market_id": 5,
+"phrase": "acton Massachusetts properties for sale",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:56",
+"updated_at": "2018-05-22 19:03:39",
+"deleted_at": null
+},
+{
+"id": 355,
+"inventory_market_id": 5,
+"phrase": "acton properties for sale",
+"search_rate": 260,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:56",
+"updated_at": "2018-05-22 19:03:39",
+"deleted_at": null
+},
+{
+"id": 356,
+"inventory_market_id": 5,
+"phrase": "properties for sale acton MA",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:56",
+"updated_at": "2018-05-22 19:03:39",
+"deleted_at": null
+},
+{
+"id": 357,
+"inventory_market_id": 5,
+"phrase": "properties for sale acton Massachusetts",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:56",
+"updated_at": "2018-05-22 19:03:39",
+"deleted_at": null
+},
+{
+"id": 358,
+"inventory_market_id": 5,
+"phrase": "properties for sale in acton MA",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:56",
+"updated_at": "2018-05-22 19:03:39",
+"deleted_at": null
+},
+{
+"id": 359,
+"inventory_market_id": 5,
+"phrase": "properties for sale in acton Massachusetts",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:56",
+"updated_at": "2018-05-22 19:03:39",
+"deleted_at": null
+},
+{
+"id": 360,
+"inventory_market_id": 5,
+"phrase": "properties for sale in acton",
+"search_rate": 260,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:57",
+"updated_at": "2018-05-22 19:03:39",
+"deleted_at": null
+},
+{
+"id": 361,
+"inventory_market_id": 5,
+"phrase": "property for sale in acton",
+"search_rate": 260,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:57",
+"updated_at": "2018-05-22 19:03:39",
+"deleted_at": null
+},
+{
+"id": 362,
+"inventory_market_id": 5,
+"phrase": "property for sale in acton Massachusetts",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:57",
+"updated_at": "2018-05-22 19:03:39",
+"deleted_at": null
+},
+{
+"id": 363,
+"inventory_market_id": 5,
+"phrase": "property for sale in acton MA",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:57",
+"updated_at": "2018-05-22 19:03:40",
+"deleted_at": null
+},
+{
+"id": 364,
+"inventory_market_id": 5,
+"phrase": "property in acton MA",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:57",
+"updated_at": "2018-05-22 19:03:40",
+"deleted_at": null
+},
+{
+"id": 365,
+"inventory_market_id": 5,
+"phrase": "property in acton Massachusetts",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:57",
+"updated_at": "2018-05-22 19:03:40",
+"deleted_at": null
+},
+{
+"id": 366,
+"inventory_market_id": 5,
+"phrase": "property in acton",
+"search_rate": 170,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:57",
+"updated_at": "2018-05-22 19:03:40",
+"deleted_at": null
+},
+{
+"id": 367,
+"inventory_market_id": 5,
+"phrase": "property acton",
+"search_rate": 170,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:57",
+"updated_at": "2018-05-22 19:03:40",
+"deleted_at": null
+},
+{
+"id": 368,
+"inventory_market_id": 5,
+"phrase": "property for sale acton MA",
+"search_rate": 10,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:58",
+"updated_at": "2018-05-22 19:03:40",
+"deleted_at": null
+},
+{
+"id": 369,
+"inventory_market_id": 5,
+"phrase": "property for sale acton Massachusetts",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:58",
+"updated_at": "2018-05-22 19:03:40",
+"deleted_at": null
+},
+{
+"id": 370,
+"inventory_market_id": 5,
+"phrase": "acton MA property for sale",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:58",
+"updated_at": "2018-05-22 19:03:40",
+"deleted_at": null
+},
+{
+"id": 371,
+"inventory_market_id": 5,
+"phrase": "acton Massachusetts property for sale",
+"search_rate": 0,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:58",
+"updated_at": "2018-05-22 19:03:40",
+"deleted_at": null
+},
+{
+"id": 372,
+"inventory_market_id": 5,
+"phrase": "acton property for sale",
+"search_rate": 260,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:58",
+"updated_at": "2018-05-22 19:03:40",
+"deleted_at": null
+},
+{
+"id": 373,
+"inventory_market_id": 5,
+"phrase": "acton MA property",
+"search_rate": 10,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:58",
+"updated_at": "2018-05-22 19:03:41",
+"deleted_at": null
+},
+{
+"id": 374,
+"inventory_market_id": 5,
+"phrase": "acton Massachusetts property",
+"search_rate": 10,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:58",
+"updated_at": "2018-05-22 19:03:41",
+"deleted_at": null
+},
+{
+"id": 375,
+"inventory_market_id": 5,
+"phrase": "acton property",
+"search_rate": 170,
+"in_stock": 1,
+"created_at": "2018-05-22 17:15:58",
+"updated_at": "2018-05-22 19:03:41",
+"deleted_at": null
+}
+],
+"state": {
+"id": 21,
+"name": "Massachusetts",
+"abbreviation": "MA",
+"country": "USA",
+"type": "state",
+"sort": 10,
+"status": "current",
+"occupied": "occupied",
+"notes": "",
+"fips_state": "25",
+"assoc_press": "Mass.",
+"standard_federal_region": "I",
+"census_region": "1",
+"census_region_name": "Northeast",
+"census_division": "1",
+"census_division_name": "New England",
+"circuit_court": "1"
+}
+}
+]
+}
